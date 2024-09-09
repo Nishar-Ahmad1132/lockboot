@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "469763185921",
+    "project_id": "lockboot-6c863",
+    "storage_bucket": "lockboot-6c863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469763185921:android:6b35d1999f23a41c7fcf00",
+        "android_client_info": {
+          "package_name": "com.example.lockboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469763185921-u5mttdtvlguito8783d7r38pjlg1hov2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2anRTCCup7suU4nlyppA-EhsqoXKr6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469763185921-u5mttdtvlguito8783d7r38pjlg1hov2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469763185921-04ma80d3kukr1urirespum3lsf9s153d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lockboot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
